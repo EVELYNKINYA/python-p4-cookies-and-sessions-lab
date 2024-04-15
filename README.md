@@ -82,3 +82,6 @@ happen:
 ## Resources
 
 - [API - Flask: class flask.session](https://flask.palletsprojects.com/en/2.2.x/api/#flask.session)
+
+
+
